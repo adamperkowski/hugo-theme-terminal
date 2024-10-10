@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2024 Adam Perkowski
 Copyright (c) 2019 panr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
